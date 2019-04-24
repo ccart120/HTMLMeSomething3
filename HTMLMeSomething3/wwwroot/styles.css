@@ -1,0 +1,31 @@
+﻿body {
+    color: darkmagenta;
+    font-size: 18px;
+}
+
+#main-title {
+    font-family: Book Antiqua
+}
+.script {
+    font-family: Brush Script MT
+}
+.two {
+    height: 400px;
+    width: 65%;
+    background-color:aqua;
+}
+.paragraph-2 {
+    float: right;
+    width: 600px;
+    padding: 10px;
+    border: 5px dotted;
+    margin: 0;
+}
+
+article {
+    width: 500px;
+    padding: 10px;
+    border: 5px dotted;
+    margin: 0;
+    
+}
